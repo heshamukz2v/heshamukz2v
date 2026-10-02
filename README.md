@@ -2,26 +2,41 @@
 
 # Hesham Elgahwagi
 
-**Projects · Ideas · Continuous learning**
+### Web Developer · WordPress · SEO
 
-Italy · [Personal website](https://hesham.it) · [GitHub](https://github.com/heshamukz2v)
+Building websites and tools that connect technology, content, and digital presence.
+
+[Personal website](https://hesham.it) · [GitHub](https://github.com/heshamukz2v) · Based in Italy
 
 </div>
 
 ---
 
-## Welcome
+## About me
 
-Welcome to my GitHub. This is where I share projects, explore ideas, and document what I learn along the way.
+I’m a programmer focused on web development, WordPress, and development tools. My work also spans SEO and social media, bringing website development and digital visibility together.
 
-## Around the web
+I care about clear structure, practical functionality, and websites that are easy to use and maintain.
 
-Visit [hesham.it](https://hesham.it) to find my personal website.
+## Areas of focus
 
----
+| Area | Focus |
+| --- | --- |
+| Web development | Building and improving websites with attention to usability and maintainability. |
+| WordPress | Developing and customizing WordPress websites to suit each project’s needs. |
+| Development tools | Creating practical tools and improving development workflows. |
+| SEO | Improving website structure, content, and search visibility. |
+| Social media | Connecting website content with a consistent social media presence. |
 
-<div align="center">
+## My approach
 
-**Thanks for stopping by.**
+- Start with the purpose of the website and the needs of its users.
+- Keep the experience clear and the implementation maintainable.
+- Consider content and SEO throughout development.
+- Refine and improve as the project evolves.
+
+## Connect
+
+Find me at **[hesham.it](https://hesham.it)**.
 
 </div>
