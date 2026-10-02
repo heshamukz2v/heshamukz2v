@@ -6,7 +6,7 @@
 
 Building websites and tools that connect technology, content, and digital presence.
 
-[Personal website](https://hesham.it) · [GitHub](https://github.com/heshamukz2v) · Based in Italy
+[Personal website](https://toolbino.com) · [GitHub](https://github.com/heshamukz2v) · Based in Italy
 
 </div>
 
@@ -37,5 +37,5 @@ I care about clear structure, practical functionality, and websites that are eas
 
 ## Connect
 
-Find me at **[hesham.it](https://hesham.it)**.
+Find me at **[toolbino.com](https://toolbino.com)**.
 
