@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**heshamukz2v/heshamukz2v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hesham Elgahwagi
 
-Here are some ideas to get you started:
+**Projects · Ideas · Continuous learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Italy · [Personal website](https://hesham.it) · [GitHub](https://github.com/heshamukz2v)
+
+</div>
+
+---
+
+## Welcome
+
+Welcome to my GitHub. This is where I share projects, explore ideas, and document what I learn along the way.
+
+## Around the web
+
+Visit [hesham.it](https://hesham.it) to find my personal website.
+
+---
+
+<div align="center">
+
+**Thanks for stopping by.**
+
+</div>
