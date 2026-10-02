@@ -39,4 +39,3 @@ I care about clear structure, practical functionality, and websites that are eas
 
 Find me at **[hesham.it](https://hesham.it)**.
 
-</div>
